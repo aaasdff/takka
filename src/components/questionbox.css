@@ -1,0 +1,124 @@
+
+.question-number{  /* Q1 */
+    margin-left:0%;
+    font-size:28px;
+    color:rgb(255, 106, 130);
+}
+.question{  /* 질문 */
+    height:110px;
+    width: 500px;
+    margin-left:0%;
+    font-size:25px;
+    font-weight:bold;
+    color:rgb(3, 0, 1);
+}
+
+.option1{
+    font-size:15px;
+    border-radius:7px;
+    padding-top:15px;
+    padding-bottom:15px;
+    margin-bottom:20px;
+    margin-top:30px;
+    width: 520px;
+    border:black solid 0px;;
+  }
+
+  .option2{
+      font-size:15px;
+    border-radius:7px;
+    padding-top:15px;
+    padding-bottom:15px;
+    margin-bottom:50px;
+    margin-top:0px;
+    width: 520px;
+    border:black solid 0px;;
+  }
+
+  .loadingdiv{
+      margin-top:140px;
+  }
+  
+.myResult{
+    text-align:center;
+    display: inline-flex; 
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.soulmate{
+    width:250px;
+    height:300px;
+    margin-top:50px;
+    margin-bottom:30px;
+    padding-top:-30px;
+    padding-bottom:30px;
+    text-align:center;
+    display: inline-block; 
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color:rgba(177, 176, 176, 0.582);
+}
+
+.sharebuttons{
+    width:250px;
+    margin-left:10px;
+    padding:10px;
+    text-align:center;
+    display: inline-block; 
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color:rgba(177, 176, 176, 0.582);
+}
+
+.yourTypeTitle{
+    font-weight:bold;
+    font-size:33px;
+}
+
+.yourType{
+    width:500px;
+    font-size:20px;
+    margin-top:0px;
+    font-weight:none;
+}
+.yoursoulType{
+    margin-top:15px;
+    font-size:16px;
+}
+.soulType{
+    font-size:25px;
+    margin-top:-7px;
+    font-weight:bold;
+}
+
+.type{
+    width:150px;
+    height:150px;
+}
+.typesoul{
+    padding-top:20px;
+    width:100px;
+    height:100px;
+}
+
+.share{
+    border:black solid 1px;
+    width:160px;
+    height:60px;
+}
+
+.website{
+    width:160px;
+    height:60px;
+}
+
+.footer{
+    margin-bottom:10px;
+    width:100%;
+    margin-top:50px;
+    background-color:rgb(107, 107, 107);
+}

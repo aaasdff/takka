@@ -1,0 +1,12 @@
+export {loading1} from './loading1.png';
+export {loading2} from './2.png';
+// import loading3 from './3.png';
+// import loading4 from './4.png';
+// import loading5 from './5.png';
+// import loading6 from './6.png';
+// import loading7 from './7.png';
+// import loading8 from './8.png';
+// import loading9 from './9.png';
+// import loading10 from './10.png';
+// import loading11 from './11.png';
+// import loading12 from './12.png';
