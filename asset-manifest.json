@@ -1,22 +1,31 @@
 {
   "files": {
-    "main.css": "/takka/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/takka/static/js/main.f78126f8.chunk.js",
-    "main.js.map": "/takka/static/js/main.f78126f8.chunk.js.map",
+    "main.css": "/takka/static/css/main.370e6848.chunk.css",
+    "main.js": "/takka/static/js/main.c20ac5d0.chunk.js",
+    "main.js.map": "/takka/static/js/main.c20ac5d0.chunk.js.map",
     "runtime-main.js": "/takka/static/js/runtime-main.ca3bbf15.js",
     "runtime-main.js.map": "/takka/static/js/runtime-main.ca3bbf15.js.map",
-    "static/js/2.0df98d72.chunk.js": "/takka/static/js/2.0df98d72.chunk.js",
-    "static/js/2.0df98d72.chunk.js.map": "/takka/static/js/2.0df98d72.chunk.js.map",
+    "static/js/2.b7d8be52.chunk.js": "/takka/static/js/2.b7d8be52.chunk.js",
+    "static/js/2.b7d8be52.chunk.js.map": "/takka/static/js/2.b7d8be52.chunk.js.map",
     "index.html": "/takka/index.html",
-    "precache-manifest.c33496419a481c152eaa77761909a250.js": "/takka/precache-manifest.c33496419a481c152eaa77761909a250.js",
+    "precache-manifest.0ac947c2142a3b5191fd903cade1fa52.js": "/takka/precache-manifest.0ac947c2142a3b5191fd903cade1fa52.js",
     "service-worker.js": "/takka/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/takka/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.0df98d72.chunk.js.LICENSE.txt": "/takka/static/js/2.0df98d72.chunk.js.LICENSE.txt"
+    "static/css/main.370e6848.chunk.css.map": "/takka/static/css/main.370e6848.chunk.css.map",
+    "static/js/2.b7d8be52.chunk.js.LICENSE.txt": "/takka/static/js/2.b7d8be52.chunk.js.LICENSE.txt",
+    "static/media/cat.png": "/takka/static/media/cat.132b0e76.png",
+    "static/media/deer.png": "/takka/static/media/deer.de7d0440.png",
+    "static/media/elephant.png": "/takka/static/media/elephant.9a5b7a9a.png",
+    "static/media/horse.png": "/takka/static/media/horse.f63440d8.png",
+    "static/media/lion.png": "/takka/static/media/lion.2516ce57.png",
+    "static/media/monkey.png": "/takka/static/media/monkey.423eade8.png",
+    "static/media/sheep.png": "/takka/static/media/sheep.dcfbde7d.png",
+    "static/media/tiger.png": "/takka/static/media/tiger.837252b8.png",
+    "static/media/wolf.png": "/takka/static/media/wolf.0c006f60.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ca3bbf15.js",
-    "static/js/2.0df98d72.chunk.js",
-    "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.f78126f8.chunk.js"
+    "static/js/2.b7d8be52.chunk.js",
+    "static/css/main.370e6848.chunk.css",
+    "static/js/main.c20ac5d0.chunk.js"
   ]
 }
