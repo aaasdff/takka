@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/takka/static/css/main.370e6848.chunk.css",
-    "main.js": "/takka/static/js/main.c20ac5d0.chunk.js",
-    "main.js.map": "/takka/static/js/main.c20ac5d0.chunk.js.map",
+    "main.css": "/takka/static/css/main.943f3373.chunk.css",
+    "main.js": "/takka/static/js/main.14e9c00b.chunk.js",
+    "main.js.map": "/takka/static/js/main.14e9c00b.chunk.js.map",
     "runtime-main.js": "/takka/static/js/runtime-main.ca3bbf15.js",
     "runtime-main.js.map": "/takka/static/js/runtime-main.ca3bbf15.js.map",
     "static/js/2.b7d8be52.chunk.js": "/takka/static/js/2.b7d8be52.chunk.js",
     "static/js/2.b7d8be52.chunk.js.map": "/takka/static/js/2.b7d8be52.chunk.js.map",
     "index.html": "/takka/index.html",
-    "precache-manifest.0ac947c2142a3b5191fd903cade1fa52.js": "/takka/precache-manifest.0ac947c2142a3b5191fd903cade1fa52.js",
+    "precache-manifest.f5beb898e500ff7d4f0bd6e6c8ad7982.js": "/takka/precache-manifest.f5beb898e500ff7d4f0bd6e6c8ad7982.js",
     "service-worker.js": "/takka/service-worker.js",
-    "static/css/main.370e6848.chunk.css.map": "/takka/static/css/main.370e6848.chunk.css.map",
+    "static/css/main.943f3373.chunk.css.map": "/takka/static/css/main.943f3373.chunk.css.map",
     "static/js/2.b7d8be52.chunk.js.LICENSE.txt": "/takka/static/js/2.b7d8be52.chunk.js.LICENSE.txt",
     "static/media/cat.png": "/takka/static/media/cat.132b0e76.png",
     "static/media/deer.png": "/takka/static/media/deer.de7d0440.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.ca3bbf15.js",
     "static/js/2.b7d8be52.chunk.js",
-    "static/css/main.370e6848.chunk.css",
-    "static/js/main.c20ac5d0.chunk.js"
+    "static/css/main.943f3373.chunk.css",
+    "static/js/main.14e9c00b.chunk.js"
   ]
 }
