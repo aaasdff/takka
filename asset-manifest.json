@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/takka/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/takka/static/js/main.f78126f8.chunk.js",
+    "main.js.map": "/takka/static/js/main.f78126f8.chunk.js.map",
+    "runtime-main.js": "/takka/static/js/runtime-main.ca3bbf15.js",
+    "runtime-main.js.map": "/takka/static/js/runtime-main.ca3bbf15.js.map",
+    "static/js/2.0df98d72.chunk.js": "/takka/static/js/2.0df98d72.chunk.js",
+    "static/js/2.0df98d72.chunk.js.map": "/takka/static/js/2.0df98d72.chunk.js.map",
+    "index.html": "/takka/index.html",
+    "precache-manifest.c33496419a481c152eaa77761909a250.js": "/takka/precache-manifest.c33496419a481c152eaa77761909a250.js",
+    "service-worker.js": "/takka/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/takka/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.0df98d72.chunk.js.LICENSE.txt": "/takka/static/js/2.0df98d72.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca3bbf15.js",
+    "static/js/2.0df98d72.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.f78126f8.chunk.js"
+  ]
+}
